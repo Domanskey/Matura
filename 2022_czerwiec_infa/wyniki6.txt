@@ -1,0 +1,60 @@
+#1
+
+PoliczOfId_meczu
+109
+
+#2
+
+Miasto	PoliczOfId_meczu
+Wiralow	41
+Kukurykow	39
+Szymbark	32
+Preziowo	30
+Bialowo	21
+Gorkowo	18
+Kielkowo	17
+Licowo	15
+Sadelko	15
+Radelko	15
+Koszalkowo	15
+Barylkowo	14
+Orecin	14
+Rezkow	13
+Warkowo	13
+Lewkowo	12
+
+#3
+
+Imie	Nazwisko	PoliczOfId_meczu
+Szymon	Rutkowski	21
+Natalia	Jankowska	36
+Kamila	Majewska	21
+Franciszek	Dudek	27
+Monika	Kowalczyk	26
+Barbara	Kaczmarek	21
+Katarzyna	Olszewska	25
+
+#4
+
+Imie	Nazwisko
+Jan	Malinowski
+Anna	Nowak
+Agnieszka	Wieczorek
+Kamila	Majewska
+Piotr	Lewandowski
+Franciszek	Dudek
+Barbara	Kaczmarek
+Zofia	Grabowska
+
+#5
+
+Id_klubu	Nazwa	PoliczOfId_klubu	PoliczOfId_meczu
+101	Sfinks	9	7
+102	Zenit	8	7
+103	Victoria	10	5
+104	Zjednoczeni	10	8
+106	Olimpia	9	5
+109	Stolar	11	9
+110	Astecja	10	3
+118	Waleczni	7	5
+120	Libero	8	5

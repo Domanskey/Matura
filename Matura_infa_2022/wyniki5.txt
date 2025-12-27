@@ -1,0 +1,34 @@
+#1
+
+Gniezno	152
+Malbork	183
+Ogrodzieniec	222
+Przemysl	198
+
+#2
+
+8 dni
+07.10.2021
+14.10.2021
+
+#3
+
+Magazyn	wielkosc_zamowienia
+Gniezno	819000
+Malbork	944240
+Ogrodzieniec	1115560
+Przemysl	1062920
+
+wykres "wykres.png" znajduje sie w folderze.
+
+#4
+19.03.2021
+154	
+
+37 zamowien do filii
+285230
+
+#5
+
+13179
+

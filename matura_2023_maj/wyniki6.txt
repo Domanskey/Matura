@@ -1,0 +1,32 @@
+#6.1
+
+Miesiac	maliny	truskawki	porzeczki
+maj	9238	9287	3309
+cze	9485	8916	5081
+lip	11592	11339	10567
+sie	11045	11386	11078
+wrz	6532	7476	6355
+
+wykres "wykres.png" znajduje sie w folderze
+
+#6.2
+
+19
+
+
+#6.3
+
+mal_porz	41
+trusk_mal	72
+trusk_porz	40
+
+
+#6.4
+
+mal_porz	18008
+trusk_mal	29732
+trusk_porz	18382
+
+
+
+

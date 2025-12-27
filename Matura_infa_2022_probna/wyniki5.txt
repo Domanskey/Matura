@@ -1,0 +1,31 @@
+#1
+
+imie	nazwisko	SumaOfIle dni
+Mateusz	Tokarczyk	9
+
+#2
+
+nr_dowodu	imie	nazwisko
+BRK348644	Marcin	Bober
+OTK325652	Mateusz	Slomka
+PNS219227	Anna	Poplawska
+
+#3
+
+32.nr_pokoju	33.nr_pokoju
+104	
+107	
+109	
+110	
+114	
+117	
+207	
+215	
+306	
+310	
+314	
+402	
+411	
+415	
+416	
+418	

@@ -1,0 +1,50 @@
+#6.1
+
+program	cena	PoliczOfId_pakietu
+Word	120	4
+Publisher	170	3
+Writer	0	3
+Foxit Redactor for Office	1621	2
+
+#6.2
+
+nazwa_pakietu
+Calligra Suite
+DocuPDF
+gDOC
+GFI Security
+IBM Data Software
+OKAY
+Sales Partner
+SolarWinds Free System Management Tools
+SolarWinds Systems Management
+Subiekt
+
+#6.3
+
+nazwa_pakietu	firma	SumaOfcena
+SolarWinds Systems Management	SolarWinds	57520
+MicroStation	Bentley	35736
+GFI Security	GFI Software	14811
+
+#6.4
+
+program
+Lightroom
+Audition
+Scribus
+Adobe PageMaker
+QuarkXPress
+
+#6.5
+
+nazwa_pakietu	pakiet_k.PoliczOfId_programu	pakiet_d.PoliczOfId_programu
+Expression Studio	3	1
+Logo-Gry	8	2
+MicroStation	4	1
+dbForge	5	1
+ApexSQL Developer	7	2
+DaemonTools Lite	8	1
+IconCool Software	4	1
+Sothink Suite	6	1
+Foxit PDF Development Kits	2	1

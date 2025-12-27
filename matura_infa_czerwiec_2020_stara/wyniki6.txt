@@ -1,0 +1,31 @@
+#1
+
+185
+
+#2
+
+Typ	PoliczOfIdentyfikator
+E	391
+F	519
+I	1060
+
+#3
+
+ID_klienta	klient	miejscowosc
+I1261	Rafal Prymus	Zielona
+I1353	Magdalena Siarkowska	Leszno
+
+#4
+
+klient	nazwa uslugi	data_zakonczenia
+Barbara Gaweda	biuro 100	01.05.2022
+Przemyslaw Sarnowski	backup mini	02.05.2022
+Marcin Wozniak	poczta indywidualna	04.05.2022
+Szkola Podstawowa 93	poczta profesjonalna	30.04.2023
+
+#5
+ID_klienta	klient
+F1205	Firma Handlowa 1
+I1215	Jakub Wielebny
+F1038	Przedsiebiorstwo Handlowo-Uslugowe 24
+E1307	Technikum 48

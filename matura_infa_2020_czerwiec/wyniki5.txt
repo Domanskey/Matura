@@ -1,0 +1,57 @@
+#1
+
+Rodzina	PoliczOfJezyk
+nigero-kongijska	137
+austronezyjska	65
+indoeuropejska	63
+sino-tybetanska	43
+nilo-saharyjska	30
+afroazjatycka	28
+dajska	23
+austroazjatycka	20
+turecka	15
+drawidyjska	15
+jezyk izolowany	8
+polnocno-wschodniokaukaska	7
+otomang	7
+mongolska	5
+majanska	5
+hmong-mien	4
+abchasko-adygijska	3
+uralska	3
+uto-aztecka	1
+na-dene	1
+tungusko-mandzurska	1
+tupi	1
+algijska	1
+keczua	1
+
+#2
+
+445
+
+#3
+
+Jezyk	PoliczOfKontynent
+angielski	4
+arabski	5
+gudzaracki	4
+tamilski	4
+
+#4
+
+
+Jezyk	SumaOfPopulacja
+japonski	529,6
+arabski	528,1
+tagalog	357,7
+wietnamski	357,7
+mandarynski	357,7
+koreanski	357,7
+
+#5
+
+Panstwo	Jezyk	Wyr1
+Pakistan	pendzabski	40,44%
+Etiopia	oromo	35,51%
+Indonezja	jawajski	32,73%

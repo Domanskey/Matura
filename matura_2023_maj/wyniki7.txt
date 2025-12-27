@@ -1,0 +1,30 @@
+#7.1
+
+nazwa
+Koncept
+
+#7.2
+
+id_gry	nazwa	ŚredniaOfocena
+36	Szeryf z Nottingham	7,88
+56	Colt Express	7,54
+82	5 sekund	8,16
+85	Sushi Go	8,07
+93	Przebiegle wielblady	7,73
+100	Avalone	8,25
+108	Swiatowy Konflikt	7,80
+111	Jenga	8,16
+130	Mamy szpiega	8,22
+131	Koncept	8,37
+
+#7.3
+
+334
+
+#7.4
+
+nazwa	kategoria	MaksimumOfPoliczOfocena
+Terraformacja Marsa	junior	6
+K2	junior	6
+K2	senior	24
+Robinson Crusoe	weteran	28

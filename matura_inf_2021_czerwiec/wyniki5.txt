@@ -1,0 +1,35 @@
+#1
+
+Koszt	Przychod
+15950	39600
+
+01.06.2023
+
+
+#2
+
+Miesiac	dochod
+styczeń	-7490
+luty	-6890
+marzec	-5390
+kwiecień	-2840
+maj	-290
+czerwiec	3250
+lipiec	8170
+sierpień	13780
+wrzesień	18370
+październik	20140
+listopad	22180
+grudzień	23800
+
+wykres "wykres.png" znajduje sie w folderze
+
+#3
+
+a)	47
+b)	57
+c)	66
+
+#4
+
+148615

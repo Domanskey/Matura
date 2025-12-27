@@ -1,0 +1,82 @@
+#6.1
+
+imie	nazwisko
+Sylwia	Adamska
+Marcin	Ciesielski
+Pawel	Dziminski
+Klaudia	Kapuscinska
+Ewelina	Lagun
+Michal	Majewski
+Katarzyna	Michalak
+Kamila	Olobry
+Piotr	Otorowski
+Danuta	Pawezowska
+Tomasz	Stefanczyk
+Pawel	Straciuk
+Monika	Wer
+
+#6.2
+
+imie	nazwisko	SumaOfWyr1
+Marcin	Ciesielski	34017,5
+
+#6.3
+
+Miesiac	PoliczOfid_rezerwacji
+6	76
+7	505
+8	291
+9	28
+
+#6.4
+wylot	kraj	PoliczOfid_wycieczki
+Warszawa	Bulgaria	20
+Lodz	Bulgaria	22
+Poznan	Bulgaria	24
+Wroclaw	Bulgaria	25
+Katowice	Bulgaria	19
+Krakow	Bulgaria	17
+Gdansk	Bulgaria	26
+Lodz	Egipt	3
+Poznan	Egipt	21
+Krakow	Egipt	14
+Warszawa	Egipt	26
+Katowice	Egipt	49
+Wroclaw	Egipt	22
+Gdansk	Egipt	20
+Lodz	Grecja	33
+Katowice	Grecja	26
+Krakow	Grecja	25
+Poznan	Grecja	17
+Wroclaw	Grecja	19
+Gdansk	Grecja	27
+Warszawa	Grecja	29
+Katowice	Hiszpania	31
+Krakow	Hiszpania	12
+Gdansk	Hiszpania	19
+Wroclaw	Hiszpania	26
+Poznan	Hiszpania	17
+Lodz	Hiszpania	19
+Warszawa	Hiszpania	25
+Katowice	Maroko	22
+Wroclaw	Maroko	28
+Gdansk	Maroko	21
+Krakow	Maroko	26
+Poznan	Maroko	23
+Warszawa	Maroko	21
+Lodz	Maroko	26
+Wroclaw	Tunezja	25
+Gdansk	Tunezja	23
+Warszawa	Tunezja	25
+Katowice	Tunezja	26
+Poznan	Tunezja	20
+Krakow	Tunezja	13
+Lodz	Tunezja	32
+Poznan	Turcja	23
+Warszawa	Turcja	24
+Gdansk	Turcja	17
+Krakow	Turcja	22
+Lodz	Turcja	30
+Wroclaw	Turcja	18
+Katowice	Turcja	23
+

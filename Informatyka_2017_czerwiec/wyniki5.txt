@@ -1,0 +1,58 @@
+#5.1
+
+a)
+
+czas	przebieg		cena
+40050	5340		43610
+
+b)
+
+DAF LF45	ERA 132 TR	17390
+
+
+
+#5.2
+
+
+a)
+DAF	30
+Iveco	12
+MAN	18
+Mercedes	17
+Renault	17
+Scania	17
+Volvo	23
+
+
+b)
+
+DAF	273239
+Iveco	657434
+MAN	289637
+Mercedes	486545
+Renault	519936
+Scania	557117
+Volvo	307130
+
+
+
+#5.3
+
+Rok	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015
+DAF	0	0	0	2	4	2	8	11	3	0
+Iveco	5	0	0	2	2	0	3	0	0	0
+MAN	0	1	0	4	2	0	3	3	5	0
+Mercedes	0	1	0	4	4	4	1	0	1	2
+Renault	0	0	0	2	6	6	3	0	0	0
+Scania	0	0	0	4	0	6	5	2	0	0
+Volvo	0	0	4	8	2	0	4	0	0	5
+
+
+#5.4
+
+Marka_i_model	Nr_rejestracyjny	roznica
+Mercedes Atego	ERA 112 TR	722
+Iveco Strails	ERA 212 TR	708
+Iveco Strails	ERA 213 TR	708
+
+

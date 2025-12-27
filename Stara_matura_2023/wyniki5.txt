@@ -1,0 +1,43 @@
+#1
+
+
+Miesiąc	Suma z dostawa_truskawek	Suma z dostawa_porzeczek	Suma z dostawa_malin
+maj	9287	3309	9238
+czerwiec	8916	5081	9485
+lipiec	11339	10567	11592
+sierpień	11386	11078	11045
+wrzesień	7476	6355	6532
+
+wykres (wykres.png) znajduje się w folderze
+
+#2
+
+19
+
+#3
+
+długość 7
+
+Początek: 18.08.2020
+
+
+Koniec: 24.08.2020
+
+#4
+
+
+mal_porz	41
+mal_trus	72
+trus_porz	40
+
+#5
+
+mal_porz	18008
+mal_trus	29732
+trus_porz	18382
+
+
+
+
+
+

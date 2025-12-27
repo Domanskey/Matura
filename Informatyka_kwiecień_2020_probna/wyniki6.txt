@@ -1,0 +1,49 @@
+#6.1
+
+imie	nazwisko	SumaOfcena (zl)
+Alicja	Kowalska	3841
+
+#6.2
+
+
+id_klienta	imie	nazwisko	PoliczOfid_wizyty
+Y51	Johan	Bor	20
+
+#6.3
+
+data	PoliczOfid_wizyty
+25.01.2018	1
+20.01.2018	1
+18.01.2018	1
+12.01.2018	1
+10.01.2018	1
+04.01.2018	2
+03.01.2018	1
+22.12.2017	1
+21.12.2017	1
+19.12.2017	1
+18.12.2017	1
+14.12.2017	1
+12.12.2017	1
+08.12.2017	1
+06.12.2017	1
+04.12.2017	1
+27.11.2017	1
+22.11.2017	1
+20.11.2017	1
+13.11.2017	1
+
+#6.4
+
+4 kobiet
+
+400 zl
+
+#6.5
+
+kod_zabiegu	zabieg
+FRM2	Odsiwianie
+FRM5	Kuracja L'Oreal
+FRM7	Rytual Kerastase (dyscyplinujacy)
+FRM8	Maska Masquargil
+

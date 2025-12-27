@@ -1,0 +1,57 @@
+#1
+K2
+
+#2
+
+nazwa	ŚredniaOfocena
+Szeryf z Nottingham	7,88
+Colt Express	7,54
+5 sekund	8,16
+Sushi Go	8,07
+Przebiegle wielblady	7,73
+Avalone	8,25
+Swiatowy Konflikt	7,80
+Jenga	8,16
+Mamy szpiega	8,22
+Koncept	8,37
+
+#3
+id_gracza	imie	nazwisko
+51	Oktawian	Kaminski
+61	Julian	Kaczmarczyk
+88	Roman	Szewczyk
+296	Mateusz	Kucharski
+319	Maciej	Kaminski
+371	Ireneusz	Szczepanski
+383	Leonardo	Wojcik
+401	Aleksander	Wasilewski
+423	Janusz	Glowacki
+429	Dobromil	Duda
+449	Fryderyk	Baran
+517	Korneliusz	Zalewski
+595	Heronim	Krawczyk
+629	Franciszek	Szymczak
+647	Maurycy	Kaminski
+680	Denis	Blaszczyk
+695	Olgierd	Michalak
+696	Allan	Szewczyk
+792	Igor	Jasinski
+821	Miroslaw	Pawlak
+944	Andzelika	Szymczak
+954	Boguslawa	Sawicka
+1010	Danuta	Walczak
+
+#4
+
+334
+
+
+#5
+
+katergoria	nazwa	PoliczOfIdentyfikator
+junior	Terraformacja Marsa	6
+junior	K2	6
+senior	K2	24
+weteran	Robinson Crusoe	28
+
+

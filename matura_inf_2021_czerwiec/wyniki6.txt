@@ -1,0 +1,55 @@
+#1
+
+122
+
+#2
+
+miasto	SumaOfliczba_artystow
+Piotrkow Trybunalski	71
+Grudziadz	71
+
+#3
+
+wojewodztwo	Wyr1
+dolnoslaskie	4,75
+kujawsko-pomorskie	4,25
+lodzkie	7,00
+lubelskie	5,00
+lubuskie	6,50
+malopolskie	5,33
+mazowieckie	2,67
+opolskie	7,00
+podkarpackie	5,00
+podlaskie	4,00
+pomorskie	2,67
+slaskie	5,53
+swietokrzyskie	8,00
+warminsko-mazurskie	4,00
+wielkopolskie	4,25
+zachodniopomorskie	4,00
+
+#4
+
+id_zespolu	nazwa
+101	Male nutki
+106	Stare mandoliny
+107	Wiosenne bebny
+108	Powolne fortepiany
+112	Ciche organy
+113	Fajne trojkaty
+118	Rozstrojone pianina
+121	Metalowe klarnety
+122	Zlote saksofony
+123	Piszczace trabki
+
+#5
+
+
+
+id_zespolu	Dzien_tyg	PoliczOfid
+112	tyg	3
+112	wek	8
+115	tyg	5
+115	wek	5
+119	tyg	3
+119	wek	3

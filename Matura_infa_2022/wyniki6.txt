@@ -1,0 +1,27 @@
+#1
+
+165
+
+#2
+
+Dzien	Spoznienie	PoliczOfIdEwidencji
+4	S	138
+5	S	87
+6	S	284
+7	S	91
+8	S	264
+
+
+#3
+
+IdUcznia	Imie	Nazwisko
+314	Sebastian	Rabaj
+172	Monika	Kado
+299	Alicja	Kronecka
+
+#4
+
+IdUcznia	Imie	Nazwisko
+18	Mateusz	Kordas
+65	Krzysztof	Michalak
+86	Oliwier	Ziolko

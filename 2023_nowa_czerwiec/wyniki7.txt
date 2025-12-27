@@ -1,0 +1,25 @@
+#1
+
+typ_u	PoliczOfIdentyfikator
+PC	16
+Phone	2814
+Tablet	267
+
+#2
+
+producent_u	PoliczOfIdentyfikator
+Samsung	478
+
+#3
+kod_k	nazwa_k	Wyr2
+CH	SWITZERLAND	5,28
+SI	SLOVENIA	4,35
+IE	IRELAND	3,91
+AT	AUSTRIA	3,84
+CZ	CZECH REPUBLIC	3,76
+
+#4
+
+nazwa_u	kod_u	PoliczOfkod_k
+Galaxy Tab A (2016)	11935	20
+

@@ -1,0 +1,33 @@
+#1
+
+06.05.2015
+13172
+
+#2
+
+wykres "wykres.png" znajduje sie w folderze
+
+#3
+
+kwi	0
+maj	164,36
+cze	1056,6
+lip	2559,32
+sie	3651,14
+wrz	1326,62
+
+
+#4
+
+a) 
+
+88
+
+b)
+
+73
+
+c)
+
+22
+

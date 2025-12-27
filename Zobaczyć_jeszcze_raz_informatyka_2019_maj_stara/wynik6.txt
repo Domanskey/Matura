@@ -1,0 +1,37 @@
+#6.1
+
+Tarnobrzeg	Kielce
+4,26
+
+
+#6.2
+
+
+21108
+
+#6.3
+
+Ciechanow	Olsztyn	15736
+
+
+#6.4
+
+Miasto	ile kursów
+Warszawa	11
+Szczecin	10
+Bielsko-Biala	9
+Konin	9
+Ciechanow	8
+Kielce	8
+Kostrzyn	8
+Opole	8
+Pila	8
+Poznan	8
+Zielona Gora	8
+
+
+#6.5
+
+11.12.2017	19.12.2017
+
+

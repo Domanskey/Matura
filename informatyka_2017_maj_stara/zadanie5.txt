@@ -1,0 +1,23 @@
+#5.1
+
+28.09.2015
+wieczor
+
+#5.2
+
+dostarczano: 18
+
+drewnem: 167
+
+gazem : 32
+
+
+#5.3
+
+wykres "wykres.png" znajduje sie w folderze
+
+#5.4
+
+702
+
+

@@ -1,0 +1,30 @@
+#5.1
+
+a)
+
+Rodzaj_meczu	PoliczOfData_meczu
+L	113
+P	25
+T	6
+
+b)
+
+Rok	PoliczOfData_meczu
+2007	21
+
+#5.2
+
+Nazwa	Id_druzyny
+Nocne Pumy	84
+Zwinne Mewy	48
+
+#5.3
+Wynik	PoliczOfData_meczu
+p	452
+r	170
+w	579
+
+#5.4
+
+22
+
